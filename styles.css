@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+.card {
+    width: 500px;
+	height: 400px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    text-align: center;
+    margin: 50px auto;
+	background-color: lightblue
+	
+}
+.card-img{
+	size: 10px 10px;
+	border-radius: 50px;
+}
+.card-title{
+	text-shadow: 1px 2px 5px;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.card-price{
+	font-size: 25px;
+}
+.buy-now-btn{
+	background-color: lightgray
+}
